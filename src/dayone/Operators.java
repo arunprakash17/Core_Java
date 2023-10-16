@@ -10,6 +10,8 @@ public class Operators {
 		System.out.println("The multiplication is "+ (a*b));
 		System.out.println("The division is "+(a/b));
 		System.out.println("The modulus is "+ (a%b));
+		
+		// Relational Operators
 	}
 
 }
