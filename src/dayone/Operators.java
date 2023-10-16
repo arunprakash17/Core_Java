@@ -11,7 +11,9 @@ public class Operators {
 		System.out.println("The division is "+(a/b));
 		System.out.println("The modulus is "+ (a%b));
 		
-		// Relational Operators
+		// Bitwise operator
+		System.out.println(4 & 5);
+		System.out.println(4 | 5);
+		System.out.println(4 ^ 2);
 	}
-
 }
