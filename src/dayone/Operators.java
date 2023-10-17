@@ -15,5 +15,11 @@ public class Operators {
 		System.out.println(4 & 5);
 		System.out.println(4 | 5);
 		System.out.println(4 ^ 2);
+		
+		// Logical Operator
+		int x = 7,y = 2;
+		System.out.println(x==y);
+		System.out.println(!(x!=y));
+		System.out.println(x!=y);
 	}
 }
